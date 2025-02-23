@@ -1,7 +1,11 @@
 # P6-txt-img_classification
 
+## Dependencies
+This project needs to run with python 3.12 to be able to use tensorflow2
+
+
 ## Summary
-This project aims to develop and implement preprocessing methods for text and images to automatically classify consumer goods into different categories based on textual descriptions and provided images. You will analyze the data, use algorithms for feature extraction (such as SIFT, ORB, SURF, and CNN), and experiment with supervised classification techniques and data augmentation. 
+This project aims to develop and implement preprocessing methods for text and images to automatically classify consumer goods into different categories based on textual descriptions and provided images. You will analyze the data, use algorithms for feature extraction (such as SIFT, ORB, SURF, and CNN), and experiment with supervised classification techniques and data augmentation.
 
 ## Business objectives
 - **Improving Efficiency**: Automate the classification of consumer goods to reduce manual effort and time in processing large datasets.
