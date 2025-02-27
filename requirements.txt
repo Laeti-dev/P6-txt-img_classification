@@ -10,3 +10,4 @@ gensim==4.3.3
 transformers==4.48.3
 tensorflow_hub==0.16.1
 opencv-python==4.11.0.86
+python-dotenv==1.0.1
